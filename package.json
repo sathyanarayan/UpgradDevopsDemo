@@ -7,12 +7,10 @@
   },
   "devDependencies": {
     "jasmine-core": "^3.6.0",
-    "phantomjs-prebuilt": "^2.1.16",
     "karma": "^5.2.3",
     "karma-chrome-launcher": "^3.1.0",
     "karma-jasmine": "^4.0.1",
-    "karma-jasmine-html-reporter": "^1.5.4",
-    "karma-phantomjs-launcher": "1.0.4"
+    "karma-jasmine-html-reporter": "^1.5.4"
   },
   "dependencies": {
     "package.json": "^2.0.1"
